@@ -5,6 +5,7 @@
 2. Super Keyword Use: [https://www.w3schools.com/java/ref_keyword_super.asp#:~:text=Definition%20and%20Usage,methods%20with%20the%20same%20name.]
 3. Interface Segregation: [https://www.baeldung.com/java-interface-segregation]
 4. Liskov Subsytituition; [https://www.youtube.com/watch?v=gnKx1RW_2Rk]
+5. Dependency Inversion [https://stackify.com/dependency-inversion-principle/]
 
 
 ## LLD Standard Questions
