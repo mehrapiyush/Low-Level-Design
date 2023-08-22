@@ -6,7 +6,9 @@
 3. Interface Segregation: [https://www.baeldung.com/java-interface-segregation]
 4. Liskov Substituition; [https://www.youtube.com/watch?v=gnKx1RW_2Rk]
 5. Dependency Inversion [https://stackify.com/dependency-inversion-principle/]
+6. Observer Pattern [https://www.tutorialspoint.com/design_pattern/observer_pattern.htm]
 
 
 ## LLD Standard Questions
 1. Parking Lot [https://www.youtube.com/watch?v=tVRyb4HaHgw] , Class Diagrams and Requirements
+
