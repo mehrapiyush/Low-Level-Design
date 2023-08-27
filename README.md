@@ -10,5 +10,7 @@
 
 
 ## LLD Standard Questions
-1. Parking Lot [https://www.youtube.com/watch?v=tVRyb4HaHgw] , Class Diagrams and Requirements
+1. Leet Code 101 Series [https://leetcode.com/discuss/interview-question/3113204/Low-Level-Design-Topics]
+2. Parking Lot [https://www.youtube.com/watch?v=tVRyb4HaHgw] , Class Diagrams and Requirements
+3. 
 
