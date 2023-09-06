@@ -12,5 +12,5 @@
 ## LLD Standard Questions
 1. Leet Code 101 Series [https://leetcode.com/discuss/interview-question/3113204/Low-Level-Design-Topics]
 2. Parking Lot [https://www.youtube.com/watch?v=tVRyb4HaHgw] , Class Diagrams and Requirements
-3. 
+3. Elevator System, [https://leetcode.com/discuss/interview-question/object-oriented-design/2563167/LLD-or-Low-level-Design-Diagram-or-Elevator-System]
 
