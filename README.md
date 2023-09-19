@@ -14,3 +14,6 @@
 2. Parking Lot [https://www.youtube.com/watch?v=tVRyb4HaHgw] , Class Diagrams and Requirements
 3. Elevator System, [https://leetcode.com/discuss/interview-question/object-oriented-design/2563167/LLD-or-Low-level-Design-Diagram-or-Elevator-System]
 
+
+## HLD Standard Questions
+1. Twitter HLD Code Kar le [https://www.youtube.com/watch?v=EkudBdvbDhs]
