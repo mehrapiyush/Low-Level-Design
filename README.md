@@ -17,3 +17,6 @@
 
 ## HLD Standard Questions
 1. Twitter HLD Code Kar le [https://www.youtube.com/watch?v=EkudBdvbDhs]
+
+##Important Links
+1. https://github.com/monukumar98/Crux-Jan-Live22/tree/master/Lec8
