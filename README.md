@@ -17,7 +17,8 @@
 
 ## HLD Standard Questions
 1. Twitter HLD Code Kar le [https://www.youtube.com/watch?v=EkudBdvbDhs]
-2. HLD : Jordan Has No Life: HLD Basics and Design Questions : https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp 
+2. HLD : Jordan Has No Life: HLD Basics and Design Questions : https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp
+3. CAP theorem real world examples: https://leetcode.com/discuss/interview-question/system-design/4721890/CAP-Theorem-real-world-scenarios
 
 ##Important Links
 1. https://github.com/monukumar98/Crux-Jan-Live22/tree/master/Lec8
