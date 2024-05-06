@@ -20,5 +20,8 @@
 2. HLD : Jordan Has No Life: HLD Basics and Design Questions : https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp
 3. CAP theorem real world examples: https://leetcode.com/discuss/interview-question/system-design/4721890/CAP-Theorem-real-world-scenarios
 
+## Algorithms
+1. Graph Algo cheat sheet [https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding-interviews]
+
 ##Important Links
 1. https://github.com/monukumar98/Crux-Jan-Live22/tree/master/Lec8
