@@ -2,7 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        // Youtube vide link
+        // https://www.youtube.com/watch?v=wA3keqCeKtM&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&index=17
+        // Service for XML to JSOn
         XMLtoJSONUIService xmLtoJSONUIService = new XMLtoJSONUIService();
+        // Adapter responsible to convert interface of same XML type to JSON
         ZomatoAdapter zomatoAdapter = new ZomatoAdapter(xmLtoJSONUIService);
 
         XML menus = new XML();
